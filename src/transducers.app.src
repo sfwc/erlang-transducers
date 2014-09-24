@@ -1,0 +1,6 @@
+{application, transducers, [
+  {description, "An abstraction for iterative processes"},
+  {vsn, "0.0.1"},
+  {registered, [transducers]},
+  {applications, [kernel, stdlib]}
+]}.

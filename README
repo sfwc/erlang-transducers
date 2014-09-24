@@ -1,0 +1,3 @@
+Some examples of Clojure's "transducer" concept, omitting only the "init"
+behaviour. Stateful transducers operate by spawning a process at
+transformation-time.
